@@ -1,3 +1,3 @@
 
 azerty
-BONJOUR
+JOUR
